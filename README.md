@@ -1,2 +1,2 @@
 # sketching_for_psd
-Code used for the paper \textit{Spectral estimation from simulations via sketching}
+Code used for the paper [Spectral estimation from simulations via sketching](https://arxiv.org/pdf/2007.11026.pdf)
